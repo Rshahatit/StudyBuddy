@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "intent": "IWantToStudyBiology",
+      "slots": [
+        {
+          "name": "deckslot",
+          "type": "DECK"
+        }
+      ]
+    }
+  ]
+}
